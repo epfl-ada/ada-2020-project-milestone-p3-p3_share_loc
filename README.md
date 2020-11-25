@@ -1,6 +1,6 @@
 ## 1. Title
 
-Assessing people’s food habits from several features
+Assessing people’s food habits and healthiness
 
 ## 2. Abstract
 
