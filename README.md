@@ -36,5 +36,5 @@ This is the task breakdown that we propose for our work, with the "due date" and
 - 30 nov: Data wrangling and preprocessing (Charles)
 - 11 dec: Models, plots and figures (spearman correlations, regression, pie charts, classification) (Ulysse + Charles)
 - 16 dec: Interpretations (choosing relevant plots and finding links between them) (Ulysse + Mouhannad)
-- 18 dec: report (Mouhannad)
-- 23 dec: video (Charles)
+- 18 dec: Report (Mouhannad)
+- 23 dec: Video (Charles)
