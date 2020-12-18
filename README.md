@@ -39,8 +39,16 @@ This is the task breakdown that we propose for our work, with the "due date" and
 - 18 dec: Report (Mouhannad)
 - 23 dec: Video (Charles)
 
-## P4 update: Members contributions
+## P4 update
 
-- Charles: Data wrangling, minor EDA, wrote part of the plots interpretation
+After quantitatively considering the features described below (such as gender), we realized that not all of them were
+relevant to the questions that we investigated, so we left them behind.
+
+However, the core of our project wasn't modified: we studied the influence of features such as age and income on food
+habits, and hence diabetes prevalence.
+
+The task breakdown was also a bit modified, and the members' contributions were the following: 
+
+- Charles: Data wrangling, minor EDA, wrote part of the plots interpretation, video
 - Mohanad: Plots, conclusion of the data story
 - Ulysse: EDA, model elaboration and plots, set up the webpage and structure of the data story
