@@ -38,3 +38,9 @@ This is the task breakdown that we propose for our work, with the "due date" and
 - 16 dec: Interpretations (choosing relevant plots and finding links between them) (Ulysse + Mouhannad)
 - 18 dec: Report (Mouhannad)
 - 23 dec: Video (Charles)
+
+## P4 update: Members contributions
+
+- Charles: Data wrangling, minor EDA, wrote part of the plots interpretation
+- Mohanad: Plots, conclusion of the data story
+- Ulysse: EDA, model elaboration and plots, set up the webpage and structure of the data story
